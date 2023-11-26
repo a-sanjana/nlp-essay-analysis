@@ -16,3 +16,5 @@ The loss used in this project is cross-entropy loss. The final score is determin
 
 #### Results
 The model achieve a CV score of 0.727. The results are visualized below:
+![](https://github.com/a-sanjana/nlp-essay-analysis/blob/main/result_1.jpeg)
+![](https://github.com/a-sanjana/nlp-essay-analysis/blob/main/result_2.jpeg)
